@@ -1,0 +1,6 @@
+function myFunction() {
+    var carName = "Volvo";
+
+    // code here can use carName
+
+}
